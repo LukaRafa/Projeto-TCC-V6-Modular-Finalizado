@@ -1,0 +1,1 @@
+Após várias correções iremos corrigir falha onde não está sendo adicionado no orçamento quando seleciono mais de um produto por exemplo solicitei 2 cabos diferentes e só salvou 1 na planilha.

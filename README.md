@@ -10,3 +10,20 @@ O sistema apresenta categorias de materiais elétricos, permitindo a seleção d
 Ao finalizar as seleções, o script gera uma planilha consolidada com os materiais escolhidos, juntamente com detalhes do cliente e informações do serviço. Além disso, um resumo das seleções é apresentado, fornecendo uma visão rápida e prática dos materiais escolhidos e suas quantidades.
 
 Este script visa otimizar e agilizar o processo de organização de materiais, tornando-o mais eficiente e preciso para profissionais que atuam na área elétrica.
+
+Módulos Necessários:
+
+openpyxl: Utilizado para criar e manipular planilhas Excel. Instale utilizando o comando: pip install openpyxl
+babel: Responsável por formatação de números e moedas. Instale com: pip install babel
+
+Observações:
+
+Certifique-se de ter o Python instalado em sua máquina.
+
+Execute o script Python digitando:
+
+python nome_do_script.py
+
+Certifique-se de substituir "nome_do_script.py" pelo nome real do seu script nesse caso seria "main.py"
+
+Siga as instruções interativas do script para inserir informações sobre o serviço, selecionar materiais e gerar um orçamento.
